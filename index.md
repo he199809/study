@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<center><font size=3>何力 Li HE </font></center>
+<center><font size=3>何力 </font></center>
 
 
 
@@ -17,4 +17,6 @@ Topological Groupoids
 Nonarchimedean Functional Analysis
 
 An Introduction to Hochschild Cohomology
+
+
 
