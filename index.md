@@ -7,6 +7,14 @@
 
 ---
 
-## Introduction
+##  要读的书：
 
-#### Email：[heli457715046@gmail.com](https://gmail.com)
+####
+Representation and Cohomology II, Benson
+
+Topological Groupoids
+
+Nonarchimedean Functional Analysis
+
+An Introduction to Hochschild Cohomology
+
