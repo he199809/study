@@ -20,3 +20,12 @@ An Introduction to Hochschild Cohomology
 
 
 
+##  安排：
+李代数：
+2/10 14 17 21 24  
+
+14:00-16:00 
+
+腾讯会议：81878307362
+
+密码：112233
