@@ -18,7 +18,7 @@ Nonarchimedean Functional Analysis
 
 An Introduction to Hochschild Cohomology
 
-[p-adic geometry](/Berkeley_)
+[p-adic geometry](/Berkeley_.pdf)
 
 
 
