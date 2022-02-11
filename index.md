@@ -14,13 +14,13 @@ Representation and Cohomology II, Benson
 
 Topological Groupoids
 
-Nonarchimedean Functional Analysis
+[Nonarchimedean Functional Analysis](/Nonarchimedean_functional_analysis.pdf)
 
-An Introduction to Hochschild Cohomology
+[An Introduction to Hochschild Cohomology](/Hochschild_Cohomology.pdf)
 
 [p-adic geometry](/Berkeley_.pdf)
 
-[Perfectoid Spaces](/Perfectoidspaces _ AMS.pdf)
+[Perfectoid Spaces](/Perfectoidspaces_AMS.pdf)
 
 
 
