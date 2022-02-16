@@ -22,7 +22,13 @@ Topological Groupoids
 
 [Perfectoid Spaces](/Perfectoidspaces_AMS.pdf)
 
+[HTT](/HTT.pdf)
 
+[SAG](/SAG.pdf)
+
+[HA](/HA.pdf)
+
+[Algebraic Geometry](/AG_I.pdf)
 
 ##  安排：
 李代数：
