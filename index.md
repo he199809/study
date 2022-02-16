@@ -22,8 +22,8 @@ Topological Groupoids
 
 [Perfectoid Spaces](/Perfectoidspaces_AMS.pdf)
 
-[HTT](/HTT.pdf)
-[SAG](/SAG.pdf)
+[HTT](/HTT.pdf)&emsp; 
+[SAG](/SAG.pdf)&emsp; 
 [HA](/HA.pdf)
 
 [Algebraic Geometry](/AG_I.pdf)
