@@ -28,6 +28,11 @@ Topological Groupoids
 
 [Algebraic Geometry](/AG_I.pdf)
 
+
+
+
+[Derived Algebraic Geometry XI: Descent Theorems](/DAG_XI.pdf)
+
 ##  安排：
 李代数：
 2/10 14 17 21 24  
