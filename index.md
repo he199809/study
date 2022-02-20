@@ -30,6 +30,8 @@ Topological Groupoids
 
 
 
+[Derived Algebraic Geometry VIII: Quasi-Coherent Sheaves and
+Tannaka Duality Theorems]
 
 [Derived Algebraic Geometry XI: Descent Theorems](/DAG_XI.pdf)
 
