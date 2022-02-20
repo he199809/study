@@ -33,7 +33,7 @@ Topological Groupoids
 [Commutative algebra, Eisenbud](/Eisenbud.pdf)
 
 [Derived Algebraic Geometry VIII: Quasi-Coherent Sheaves and
-Tannaka Duality Theorems]
+Tannaka Duality Theorems](/DAG-VIII.pdf)
 
 [Derived Algebraic Geometry XI: Descent Theorems](/DAG_XI.pdf)
 
