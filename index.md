@@ -14,7 +14,7 @@ Representation and Cohomology II, Benson
 
 Topological Groupoids
 
-[Fourier-Mukai transforms, Huybrechts](/Huybrechts_Fourier-Mukai_transforms.pdf)
+[Fourie-Mukai transforms in algebraic geometry, Huybrechts](/FM_H.pdf)
 
 [Nonarchimedean Functional Analysis](/Nonarchimedean_functional_analysis.pdf)
 
@@ -30,7 +30,7 @@ Topological Groupoids
 
 [Algebraic Geometry](/AG_I.pdf)
 
-
+[Commutative algebra, Eisenbud](/Eisenbud.pdf)
 
 [Derived Algebraic Geometry VIII: Quasi-Coherent Sheaves and
 Tannaka Duality Theorems]
