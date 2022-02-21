@@ -13,6 +13,9 @@
 Representation and Cohomology II, Benson
 
 Topological Groupoids
+
+[Lectures on Formal and Rigid Geometry, Bosch](/Lectures_on_Formal&Rigid_Geometry_Bosch.pdf)
+
 [Serre's problem on projective modules](/Serre's_problem_on_projective_modules.pdf)
 
 [Fargues-Fontaine Curve, Lurie](/FF_curve.pdf)
