@@ -14,6 +14,8 @@ Representation and Cohomology II, Benson
 
 Topological Groupoids
 
+[Fargues-Fontaine Curve, Lurie](/FF_curve.pdf)
+
 [Fourie-Mukai transforms in algebraic geometry, Huybrechts](/FM_H.pdf)
 
 [Nonarchimedean Functional Analysis](/Nonarchimedean_functional_analysis.pdf)
