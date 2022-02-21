@@ -43,6 +43,9 @@ Tannaka Duality Theorems](/DAG-VIII.pdf)
 
 [Derived Algebraic Geometry XI: Descent Theorems](/DAG_XI.pdf)
 
+[Derived Algebraic Geometry XIII: Rational and p-adic Homotopy
+Theory](/DAG-XIII.pdf)
+
 ##  安排：
 李代数：
 2/10 14 17 21 24  
