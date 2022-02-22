@@ -58,16 +58,15 @@ Theory](/DAG-XIII.pdf)
 
 
 
-Perverse schobers in representation theory：
+## Perverse schobers in representation theory
 
-Merlin Christ(University of Hamburg)
+Speaker: Merlin Christ(University of Hamburg)
 
-Every Weds. 2022-2-23~2022-4-13 
-Beijing time 4:00-4:45+4:50-5:35pm
+Time: Every Weds. 2022-2-23~2022-4-13 &emsp; Beijing time 4:00-4:45+4:50-5:35pm
 
 Zoom Meeting ID: 361 038 6975   Passcode: BIMSA
 
-Eight lectures, each 2x45 minutes. 
+8 lectures, each 2x45 minutes. 
 
 •Lecture1: Constructible sheaves on graphs and perverse sheaves 2022-2-23
 
