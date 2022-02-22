@@ -12,6 +12,9 @@
 [Huber94](/Huber94.pdf)
 
 
+## 讲义
+[Bhatt Perfectoid Spaces](/BhattPerfd.pdf)
+
 ##  书籍：
 
 
