@@ -7,7 +7,12 @@
 
 ---
 
-##  要读的书：
+## 文章
+[Huber93](/Hubercout.pdf)  &emsp; 
+[Huber94](/Huber94.pdf)
+
+
+##  书籍：
 
 
 Representation and Cohomology II, Benson
