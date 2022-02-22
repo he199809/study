@@ -17,6 +17,7 @@
 
 ##  书籍：
 
+[p-adic Hodge Theory](/Bhattp-adicHodgeTheory.pdf)
 
 Representation and Cohomology II, Benson
 
