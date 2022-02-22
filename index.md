@@ -26,7 +26,7 @@ Topological Groupoids
 
 [Serre's problem on projective modules](/Serre's_problem_on_projective_modules.pdf)
 
-[Fargues-Fontaine Curve, Lurie](/FF_curve.pdf)
+[Fargues-Fontaine Curve, Lurie](/FF_Curve.pdf)
 
 [Fourie-Mukai transforms in algebraic geometry, Huybrechts](/FM_H.pdf)
 
