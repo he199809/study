@@ -55,3 +55,29 @@ Theory](/DAG-XIII.pdf)
 腾讯会议：81878307362
 
 密码：112233
+
+
+
+Perverse schobers in representation theory：
+
+Merlin Christ(University of Hamburg)
+
+Every Weds. 2022-2-23~2022-4-13 
+Beijing time 4:00-4:45+4:50-5:35pm
+
+Zoom Meeting ID: 361 038 6975   Passcode: BIMSA
+
+Eight lectures, each 2x45 minutes. 
+
+•Lecture1: Constructible sheaves on graphs and perverse sheaves 2022-2-23
+
+•Lecture2: Crash course on stable infinity categories 2022-3-2
+
+•Lecture3: Spherical adjunctions 2022-3-9
+
+•Lecture4: Perverse schobers 2022-3-16
+
+•Lecture5: Global sections of perverse schobers 2022-3-23
+
+•Lectures6-8: relative Ginzburg algebras of triangulated or n-angulated surfaces via perverse schobers 2022-3-30&2022-4-6/13
+
