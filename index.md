@@ -19,6 +19,8 @@
 
 [p-adic Hodge Theory](/Bhattp-adicHodgeTheory.pdf)
 
+[Algebraic Spaces and Stacks, Martin Olsson](/Algebraic_Spaces_and_Stacks.pdf)
+
 Representation and Cohomology II, Benson
 
 Topological Groupoids
@@ -43,7 +45,7 @@ Topological Groupoids
 [SAG](/SAG.pdf)&emsp; 
 [HA](/HA.pdf)
 
-[Infinite categories](/Introduction_to_Infinity_Categories.pdf)
+[Infinite categories, Markus Land](/Introduction_to_Infinity_Categories.pdf)
 
 [Algebraic Geometry](/AG_I.pdf)
 
