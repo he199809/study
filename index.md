@@ -43,6 +43,8 @@ Topological Groupoids
 [SAG](/SAG.pdf)&emsp; 
 [HA](/HA.pdf)
 
+[Infinite categories](/Introduction_to_Infinity_Categories.pdf)
+
 [Algebraic Geometry](/AG_I.pdf)
 
 [Commutative algebra, Eisenbud](/Eisenbud.pdf)
