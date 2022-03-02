@@ -17,6 +17,8 @@
 
 ##  书籍：
 
+[Loop Spaces, Characteristic Classes and Geometric Quantization](/Loop_spaces_characteristic_classes.pdf)
+
 [p-adic Hodge Theory](/Bhattp-adicHodgeTheory.pdf)
 
 [Algebraic Spaces and Stacks, Martin Olsson](/Algebraic_Spaces_and_Stacks.pdf)
