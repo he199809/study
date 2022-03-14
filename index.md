@@ -20,6 +20,8 @@
 [Bhatt Perfectoid Spaces](/BhattPerfd.pdf)
 
 ##  书籍：
+[Introduction to Tensor Products of Banach Spaces](/Introduction_to_Tensor_Products_of_Banach_Spaces.pdf)
+
 [Hopf Algebra](/Hopf_Algebra.pdf)
 
 [Classifying Spaces and Classifying Topoi](/Classifying_Spaces_and_Classifying_Topoi.pdf)
