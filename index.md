@@ -8,11 +8,9 @@
 ---
 
 ## 文章
-[Huber93](/Huber93.pdf)  &emsp; 
-[Huber94](/Huber94.pdf)
-
-[Notes on Isocrystals](/1606.01321.pdf)
-
+[Huber93](/Huber93.pdf)  &emsp; [Huber94](/Huber94.pdf)
+&emsp; [Notes on Isocrystals](/1606.01321.pdf)
+&emsp;
 [Kedlaya Liu](/Kedlaya_Liu.pdf)
 
 
