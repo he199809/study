@@ -20,6 +20,8 @@
 [Bhatt Perfectoid Spaces](/BhattPerfd.pdf)
 
 ##  书籍：
+[Deformation Theory, Robin Hartshorne](/Deformation_Theory.pdf)
+
 [Introduction to Tensor Products of Banach Spaces](/Introduction_to_Tensor_Products_of_Banach_Spaces.pdf)
 
 [Hopf Algebra](/Hopf_Algebra.pdf)
@@ -59,6 +61,8 @@ Topological Groupoids
 [Infinite categories, Markus Land](/Introduction_to_Infinity_Categories.pdf)
 
 [Algebraic Geometry](/AG_I.pdf)
+
+[Algebraic Geometry and Arithmetic Curves](/LiuQing.pdf)
 
 [Commutative algebra, Eisenbud](/Eisenbud.pdf)
 
