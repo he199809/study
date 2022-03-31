@@ -8,6 +8,10 @@
 
 ---
 
+## 讨论班
+[Jacobians of Curves](/jacobians.pdf)
+
+
 [higher category theory的教材](https://math.stackexchange.com/questions/1275964/textbooks-on-higher-category-theory)
 
 ## 文章
