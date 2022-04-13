@@ -22,6 +22,8 @@
 
 
 ## 讲义
+[p adic Galois representation, Fontaine and Yi Ouyang](/p-adic_Galois_表示.pdf)
+
 [Bhatt Perfectoid Spaces](/BhattPerfd.pdf)
 
 
@@ -30,6 +32,8 @@
 
 
 ##  书籍：
+[GTM281 Intersection Homology & Perverse Sheaves](/GTM281_perverse_sheaves.pdf)
+
 [Deformation Theory, Robin Hartshorne](/Deformation_Theory.pdf)
 
 [Introduction to Tensor Products of Banach Spaces](/Introduction_to_Tensor_Products_of_Banach_Spaces.pdf)
