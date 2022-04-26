@@ -81,7 +81,9 @@ Topological Groupoids
 [Commutative algebra, Eisenbud](/Eisenbud.pdf)
 
 
+This course is joint with Dustin Clausen (University of Copenhagen) and will be held hybrid: On Tuesdays, 12:15 -- 14:00, Clausen will hold the lecture in Copenhagen and we will watch it in Room N0.008 at the University, while Thursdays, 12:15 -- 14:00, I will hold the lecture in the MPIM Lecture Hall. The first lecture takes place on Thursday, April 21, 2022, the last lecture will be on Thursday, July 14, 2022.
 
+Zoom Meeting ID: 970 8975 6734   Passcode：944600
 
 
 
